@@ -1,0 +1,10 @@
+C:\Users\Windows\OneDrive\Desktop\ファイル分け\ファイル分け\bin\Debug\ファイル分け.exe.config
+C:\Users\Windows\OneDrive\Desktop\ファイル分け\ファイル分け\bin\Debug\ファイル分け.exe
+C:\Users\Windows\OneDrive\Desktop\ファイル分け\ファイル分け\bin\Debug\ファイル分け.pdb
+C:\Users\Windows\OneDrive\Desktop\ファイル分け\ファイル分け\obj\Debug\ファイル分け.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Desktop\ファイル分け\ファイル分け\obj\Debug\ファイル分け.Properties.Resources.resources
+C:\Users\Windows\OneDrive\Desktop\ファイル分け\ファイル分け\obj\Debug\ファイル分け.csproj.GenerateResource.cache
+C:\Users\Windows\OneDrive\Desktop\ファイル分け\ファイル分け\obj\Debug\ファイル分け.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Desktop\ファイル分け\ファイル分け\obj\Debug\ファイル分け.exe
+C:\Users\Windows\OneDrive\Desktop\ファイル分け\ファイル分け\obj\Debug\ファイル分け.pdb
+C:\Users\Windows\OneDrive\Desktop\ファイル分け\ファイル分け\obj\Debug\ファイル分け.Form1.resources
